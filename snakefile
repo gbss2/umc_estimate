@@ -26,7 +26,7 @@
 # 1) 
 ################################################################################
 
-configfile: "config.yaml"
+configfile: "config/config.yaml"
 
 rule convert2fasta
 	input:
